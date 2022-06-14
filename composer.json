@@ -7,7 +7,7 @@
   "homepage": "https://github.com/mnvx/lowrapper",
   "autoload": {
     "psr-4": {
-      "Mnvx\\Lowrapper\\": "src/"
+      "taschan23\\Lowrapper\\": "src/"
     }
   },
   "require": {
